@@ -62,5 +62,6 @@ In mathematics, bifurcation theory is the study of changes in the qualitative or
 - https://www.instructables.com/Mini-Warehouse-13-Farnsworth-Communicator/
 - https://www.wired.com/2011/11/get-your-own-warehouse-13-farnsworth-communicator-on-your-ios-device/
 - https://www.nde-ed.org/Physics/Waves/planewaves.xhtml
-- 
+- https://en.wikipedia.org/wiki/Meissner_effect
+- Superconductivity and Microwaves  https://www.intechopen.com/chapters/68271
 - 
