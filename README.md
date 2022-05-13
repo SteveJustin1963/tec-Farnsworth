@@ -9,7 +9,7 @@ The Farnsworth communicator is a device used to communicate with people or objec
 ### Farnsworth prop replication
 
 Parts
-- Ringing MP3: http://www.wildzero.de/pics/WH13_farnsworth_ringtone.mp3
+- Ringing MP3:
 - Brass Case: 
 - Left Knob Code: 
 - Center Knob 
