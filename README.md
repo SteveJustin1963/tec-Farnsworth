@@ -48,7 +48,7 @@ There are some general relativistic effects that allow space itself to travel fa
 
 There are of course lots of ways to transmit information slower than light without using electromagnetic waves. The most common is to use matter: write something down on paper, then move the paper to the intended recipient of the message.
 
-- Longitudinall EM waves
+### Longitudinall EM waves
 Yes, em waves can be made to travel longitudinally.how? One way to make em waves travel longitudinally is to use a medium that supports longitudinal waves. For example, sound waves in a solid medium are longitudinal waves. Another way to make em waves travel longitudinally is to use a transverse waveguide, such as a hollow metal pipe, with a narrow slit running along its length. This slit acts as a waveguide for the electromagnetic fields, and the fields will travel along the length of the pipe. How can a magnetic field be focused over a long distance? By using a very long solenoid, which is a coil of wire that generates a magnetic field when an electric current is passed through it. The strength of the magnetic field can be increased by increasing the number of turns in the solenoid, or by using a stronger magnet. We need to transfer this into some sort of quantum effect. 
 
 ### Pinch resonances in a radio-frequency-driven superconducting-quantum-interference-device ring-resonator system
